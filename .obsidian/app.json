@@ -1,5 +1,7 @@
 {
   "newLinkFormat": "shortest",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Ciando Microsserviços - Projetando sistemas com componentes menores e mais especializados"
+  "attachmentFolderPath": "Ciando Microsserviços - Projetando sistemas com componentes menores e mais especializados",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

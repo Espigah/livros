@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "598372d3ff746472",
+        "id": "8f1f6c7792ccc22c",
         "type": "tabs",
         "children": [
           {
-            "id": "69dfaca6ce0cfed1",
+            "id": "2861d5c767f78060",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Livros/Ciando Microsserviços - Projetando sistemas com componentes menores e mais especializados/cover.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livros/Ciando Microsserviços - Projetando sistemas com componentes menores e mais especializados/cover.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livros/Ciando Microsserviços - Projetando sistemas com componentes menores e mais especializados/cover.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Livros/Ciando Microsserviços - Projetando sistemas com componentes menores e mais especializados/cover.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -134,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69dfaca6ce0cfed1",
+  "active": "2861d5c767f78060",
   "lastOpenFiles": [
-    "Livros/Microsserviços prontos para produção - construindo sistemas padronizados em uma organização de engenharia de software/Monitoramento/Métricas principais/Drawing 2022-12-01 18.26.50.excalidraw.md",
-    "Livros/Manual de DevOps/PARTE IV - A segunda maneira - As práticas técnicas de feedback/Criar telemetria para ver e resolver problemas/Drawing 2022-12-01 18.28.20.excalidraw.md",
-    "Livros/Ciando Microsserviços - Projetando sistemas com componentes menores e mais especializados/De monitoração à observabilidade/Os pilares da observabilidade? Espe um pouco/MELT.md",
-    "Livros/Microsserviços prontos para produção - construindo sistemas padronizados em uma organização de engenharia de software/Monitoramento/Métricas principais/Pricipais métricas de microsserviço.md",
-    "Livros/Microsserviços prontos para produção - construindo sistemas padronizados em uma organização de engenharia de software/Monitoramento/Métricas principais/Métricas de microsserviço.md",
-    "Livros/Microsserviços prontos para produção - construindo sistemas padronizados em uma organização de engenharia de software/Monitoramento/Métricas principais/Métricas de servidor e infraestrutura.md",
-    "Livros/Ciando Microsserviços - Projetando sistemas com componentes menores e mais especializados/cover.jpg",
-    "2022-12-01.md",
     "Livros/Ciando Microsserviços - Projetando sistemas com componentes menores e mais especializados/cover.png",
-    "Livros/Microsserviços prontos para produção - construindo sistemas padronizados em uma organização de engenharia de software/Monitoramento/Métricas principais/Untitled.md"
+    "Livros/Ciando Microsserviços - Projetando sistemas com componentes menores e mais especializados/De monitoração à observabilidade/Os pilares da observabilidade? Espe um pouco/MELT.md",
+    "Livros/Microsserviços prontos para produção - construindo sistemas padronizados em uma organização de engenharia de software/Monitoramento/Métricas principais/Métricas de microsserviço.md",
+    "Livros/_Index_of_Livros.md",
+    "Livros/Microsserviços prontos para produção - construindo sistemas padronizados em uma organização de engenharia de software/_Index_of_Microsserviços prontos para produção - construindo sistemas padronizados em uma organização de engenharia de software.md",
+    "Templates/_Index_of_Templates.md",
+    "Templates/Default.md",
+    "Livros/Microsserviços prontos para produção - construindo sistemas padronizados em uma organização de engenharia de software/Monitoramento/Métricas principais/Pricipais métricas de microsserviço.md",
+    "Livros/Microsserviços prontos para produção - construindo sistemas padronizados em uma organização de engenharia de software/Monitoramento/Métricas principais/Métricas de servidor e infraestrutura.md",
+    "Livros/Engenharia de Confiabildiade do Google - Como o google administra seus sistemas de produção/Teste.md"
   ]
 }

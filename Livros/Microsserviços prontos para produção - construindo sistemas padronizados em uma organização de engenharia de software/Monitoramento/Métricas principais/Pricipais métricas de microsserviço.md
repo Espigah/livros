@@ -1,15 +1,19 @@
 tags: #observability,  #telemetry  
 
 
-## Note
+## Notes
 
-* métricas especificas da linguagem
-* disponibildade
+* Métricas especificas da linguagem
+* Disponibildade
 * SLA
-* latência
-* sucesso do endpoint
-* resposta do endpoint
-* tempo de resposta do endpoint
-* clientes
-* erros e esceções
-* dependências
+* Latência
+* Sucesso do endpoint
+* Resposta do endpoint
+* Tempo de resposta do endpoint
+* Clientes
+* Erros e exceções
+* Dependências
+
+## Comments
+
+Ess livro não faz menção a SLO.

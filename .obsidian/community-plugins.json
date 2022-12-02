@@ -2,5 +2,8 @@
   "obsidian-git",
   "excalibrain",
   "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "zoottelkeeper-obsidian-plugin",
+  "obsidian-local-images",
+  "persistent-graph"
 ]
